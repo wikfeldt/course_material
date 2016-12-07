@@ -1,4 +1,4 @@
-# Development of various course material for the CodeRefinery project
+# Course material on Jupyter Notebooks for the CodeRefinery project
 
 ## K. Thor Wikfeldt
 
